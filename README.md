@@ -1,4 +1,4 @@
-# data-warehouse-sql
+# Data Warehouse Sql
 Data warehouse with SQL Server, including ETL processes, data modeling and analytics.
 ---
 # Project Requirements
