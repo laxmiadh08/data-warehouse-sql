@@ -1,5 +1,5 @@
 # data-warehouse-sql
-Building a data warehouse with SQL Server, including ETL processes, data modeling and analytics.
+Data warehouse with SQL Server, including ETL processes, data modeling and analytics.
 ---
 # Project Requirements
 ### Building the Data Warehouse
